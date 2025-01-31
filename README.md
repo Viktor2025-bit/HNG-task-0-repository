@@ -12,6 +12,7 @@ To run the project locally, follow these steps:
 ### Prerequisites
 - Node.js (v14 or higher) installed
 - npm (v6 or higher)
+- npm run dev to start the server
 
 ### Installation
 1. Clone the repository:
