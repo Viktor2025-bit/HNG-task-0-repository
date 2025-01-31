@@ -16,7 +16,7 @@ app.get("/api/data", (req, res) => {
     const response = {
       email: "kaluvictor130@gmail.com",
       current_datetime: new Date().toISOString(),
-      github_url: "https://github.com/Viktor2025-bit/HNG-task-0-repository.git",
+      github_url: "https://github.com/Viktor2025-bit/HNG-task-0-repository",
     };
     res.status(200).json(response);
   } catch (error) {
